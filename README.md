@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!<br>My name is Oskar.<br>I'm student of CKZiU Zbąszynek.
+<Hi there!/><br>My name is Oskar.<br>I'm student of CKZiU Zbąszynek.
 
 
 ## 🌐 Socials:

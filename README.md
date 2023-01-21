@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!<br>My name is Oskar.<br>I'm student of CKZiU Zbąszynek.<br>My second profession is 3D designer ;D
+<Hi there!/><br>My name is Oskar.<br>I'm student of CKZiU Zbąszynek.<br>My second profession is 3D designer ;D
 
 
 ## 🌐 Socials:
